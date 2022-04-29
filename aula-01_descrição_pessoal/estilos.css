@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    font-family: Arial;
+}
+
+img{
+    border-radius: 8%;
+    width: 500;
+    border-style: solid;
+    border-width: 6px;
+    border-color: green;
+}
+
+p, h1{
+    color: black;
+    font-family: arial;
+}
